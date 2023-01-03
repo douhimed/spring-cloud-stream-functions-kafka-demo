@@ -1,0 +1,4 @@
+GET http://localhost:8080/publish/R1/accueil
+
+###
+GET http://localhost:8080/publish/R2/blog
